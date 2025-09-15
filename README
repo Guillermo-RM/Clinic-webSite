@@ -1,4 +1,4 @@
-# Clínica San Ramón - Sitio Web
+# Clínica  Sitio Web
 
 Sitio web moderno con temática para clinicas. Incluye información de servicios, equipo profesional, contacto y ubicación.
 Es un proyecto desarrollado con HTML, CSS, JavaScript, Bootstrap 5 y GSAP como práctica.
