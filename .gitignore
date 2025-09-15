@@ -1,0 +1,11 @@
+
+# Archivos y carpetas de configuración de VS Code
+.vscode/
+
+# Archivos generados por CodeGPT
+.codegpt/
+
+# Archivos de sistema y temporales
+Thumbs.db
+.DS_Store
+
