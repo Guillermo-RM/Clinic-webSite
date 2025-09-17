@@ -13,26 +13,6 @@ Es un proyecto desarrollado con HTML, CSS, JavaScript, Bootstrap 5 y GSAP como p
 - **Newsletter** en el footer.
 - **Imágenes optimizadas** para servicios y equipo.
 
-## Estructura de Carpetas
-
-```
-├── index.html
-├── servicios.html
-├── nosotros.html
-├── contacto.html
-├── styles/
-│   └── styles.css
-├── js/
-│   └── gsap.js
-├── img/
-│   └── [imágenes del sitio]
-├── .vscode/
-│   └── settings.json
-├── .codegpt/
-│   └── head
-└── .gitignore
-```
-
 ## Personalización
 
 - Cambia textos y títulos en los archivos `.html` según tu clínica.
